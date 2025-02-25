@@ -6,16 +6,15 @@ This repository contains a **Reinforcement Learning** (RL) project that demonstr
 
 ## Table of Contents
 
-1. [Features](https://chatgpt.com/c/67ba1522-d1f8-800a-bdd8-bde881e36342#features)
-2. [Project Structure](https://chatgpt.com/c/67ba1522-d1f8-800a-bdd8-bde881e36342#project-structure)
-3. [Installation](https://chatgpt.com/c/67ba1522-d1f8-800a-bdd8-bde881e36342#installation)
-4. [Usage](https://chatgpt.com/c/67ba1522-d1f8-800a-bdd8-bde881e36342#usage)
-5. [Reinforcement Learning Overview](https://chatgpt.com/c/67ba1522-d1f8-800a-bdd8-bde881e36342#reinforcement-learning-overview)
-6. [Algorithms](https://chatgpt.com/c/67ba1522-d1f8-800a-bdd8-bde881e36342#algorithms)
-7. [Configuration](https://chatgpt.com/c/67ba1522-d1f8-800a-bdd8-bde881e36342#configuration)
-8. [Future Improvements](https://chatgpt.com/c/67ba1522-d1f8-800a-bdd8-bde881e36342#future-improvements)
-9. [License](https://chatgpt.com/c/67ba1522-d1f8-800a-bdd8-bde881e36342#license)
-
+1. [Features]
+2. [Project Structure]
+3. [Installation]
+4. [Usage]
+5. [Reinforcement Learning Overview]
+6. [Algorithms]
+7. [Configuration]
+8. [Future Improvements]
+9. [License]
 ------
 
 ## Features
